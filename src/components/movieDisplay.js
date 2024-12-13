@@ -20,6 +20,7 @@ function MovieDisplay() {
         })
         .catch((err) => {
           console.error("Cant fetch new data!", err);
+          alert('Server Error! Please try again later...')
         });
     } else {
       setData(JSON.parse(sessionStorage.getItem("myData"))); // Load data from sessionStorage
