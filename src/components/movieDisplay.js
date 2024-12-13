@@ -29,12 +29,9 @@ function MovieDisplay() {
 
   return (
     <div id="movie-display">
-      {/* Render Loader if data is not yet available */}
       {!data && <Loader />}
       
-      {/* Render movies once data is available */}
-      {data &&
-        data.map((item) => (
+      {data && data.map((item) => (
           <button
             key={item.id}
             className="movie-btn"
