@@ -1,0 +1,191 @@
+[
+    {
+      "id":1,
+      "title": "Tatinic",
+      "picUrl": "default image.jpg",
+      "description": "A movie about a seeking and a saviour of the crew members. This is true story told by real people.",
+      "year": "(2010)",
+      "genres": ["Drama", "Romance"],
+      "age": "PG-13",
+      "time": "2h 45m"
+    },
+    {
+      "id":2,
+      "title": "Ice Age",
+      "picUrl": "default image.jpg",
+      "description": "The Ice Age movie is an animated adventure-comedy that follows the journey of a mismatched trio of prehistoric animals—a woolly mammoth (Manny), a sloth (Sid), and a saber-toothed tiger (Diego)—as they work together to return a human baby to its family. Set against the backdrop of the Ice Age, the film combines humor, heartwarming moments, and thrilling escapades, all while showcasing the challenges of survival in a frozen world.",
+      "year": "(2012)",
+      "genres": ["Drama", "Comedy", "Animation", "Adveture"],
+      "age": "F",
+      "time": "1h 34m"
+    },
+    {
+      "id":3,
+      "title": "Avengers",
+      "picUrl": "default image.jpg",
+      "description": "The Avengers (2012) is a superhero action film directed by Joss Whedon. It follows Earth's mightiest heroes—Iron Man, Captain America, Thor, Hulk, Black Widow, and Hawkeye—as they join forces to stop Loki, Thor's adopted brother, from using a powerful artifact called the Tesseract to invade Earth with an alien army. Packed with thrilling action, humor, and teamwork, the film marks a landmark moment in the Marvel Cinematic Universe as the heroes learn to work together to save the",
+      "year": "(2012)",
+      "genres": ["Sci-fi", "Action"],
+      "age": "16",
+      "time": "1h 45m"
+    },
+    {
+      "id":4,
+      "title": "BeeKeeper",
+      "picUrl": "default image.jpg",
+      "description": "Bee Keep is an engaging short film about a reclusive beekeeper who discovers a mysterious hive with extraordinary powers. As the bees exhibit strange behaviors and unlock hidden truths, the beekeeper must decide whether to protect the hive or destroy it before its secrets reshape the natural world. Filled with intrigue and stunning visuals, it’s a tale of nature, mystery, and the delicate balance between curiosity and caution.",
+      "year": "(2023)",
+      "genres": ["Action", "Drama"],
+      "age": "16",
+      "time": "2h 15m"
+    },
+  
+    {
+      "id":5,
+      "title": "Transformer",
+      "picUrl": "default image.jpg",
+      "description": "The Transformers movie series is a high-octane action franchise where alien robots, the Autobots and Decepticons, battle for supremacy. These shape-shifting beings disguise themselves as vehicles, with the heroic Autobots protecting humanity and the ruthless Decepticons seeking domination. The series blends cutting-edge CGI, explosive battles, and human allies to tell epic stories of courage, teamwork, and survival.",
+      "year": "(2012)",
+      "genres": ["Sci-fi", "Action"],
+      "age": "16",
+      "time": "2h 25m"
+    },
+  
+    {
+      "id":6,
+      "title": "Hell boy",
+      "picUrl": "default image.jpg",
+      "description": "Hellboy (2004) is a supernatural action film directed by Guillermo del Toro, based on the comic series by Mike Mignola. It follows Hellboy, a half-demon, who was summoned to Earth by the Nazis during World War II but was raised by a kind-hearted professor. As an adult, Hellboy works for a secret government organization, the Bureau for Paranormal Research and Defense (B.P.R.D.), to protect the world from dark forces. When a villainous sorceress seeks to unleash an ancient evil, Hellboy must confront his destiny and the truth about his origins to stop her.",
+      "year": "(2004)",
+      "genres": ["Horro", "Sci-fi", "Action", "Adveture"],
+      "age": "18",
+      "time": "2h 50m"
+    },
+  
+    {
+      "id":7,
+      "title": "Spiderman",
+      "picUrl": "default image.jpg",
+      "description": "Spider-Man (2002) is a superhero film based on the Marvel Comics character Spider-Man. Directed by Sam Raimi, it follows the story of Peter Parker, a shy high school student who gains spider-like abilities after being bitten by a genetically altered spider. As he embraces his new powers, Peter struggles with balancing his personal life and his responsibility as a crime-fighter. He faces his greatest challenge when the villainous Green Goblin, who is secretly the father of his best friend, Harry Osborn, threatens New York City. The film explores themes of power, responsibility, and ",
+      "year": "(2002)",
+      "genres": ["Sci-fi", "Action"],
+      "age": "16",
+      "time": "1h 32m"
+    },
+  
+    {
+      "id":8,
+      "title": "Ironman",
+      "picUrl": "default image.jpg",
+      "description": "Iron Man (2008) follows the story of Tony Stark, a wealthy industrialist and genius inventor who is captured by terrorists. While in captivity, he is forced to build a weapon of mass destruction but instead creates a high-tech suit of armor to escape. Upon returning home, he refines the suit and adopts the alter ego of Iron Man, using his newfound abilities to fight against evil and protect the world. The film explores his transformation from a self-absorbed playboy to a heroic figure.",
+      "year": "(2008)",
+      "genres": ["Sci-fi", "Comedy", "Action"],
+      "age": "13",
+      "time": "1h 45m"
+    },
+  
+    {
+      "id":8,
+      "title": "Pirates of the Caribbenia",
+      "picUrl": "default image.jpg",
+      "description": "Pirates of the Caribbean is a swashbuckling adventure film series set in the 18th century, following the adventures of Captain Jack Sparrow, a charming yet eccentric pirate. The first film, Pirates of the Caribbean: The Curse of the Black Pearl (2003), introduces Jack as he seeks to retrieve his stolen ship, the Black Pearl, while battling cursed pirates led by Captain Hector Barbossa. The series blends action, comedy, and supernatural elements as Jack navigates treacherous waters, pursues treasure, and faces rivals and mythical forces. It became a global hit, known for its iconic characters, thrilling sea battles, and humorous dialogue.",
+      "year": "(2012)",
+      "genres": ["Fantasy", "Comedy", "Action", "Adveture"],
+      "age": "16",
+      "time":"1h 32m"
+    },
+  
+    {
+      "id":9,
+      "title": "Blended",
+      "picUrl": "default image.jpg",
+      "description": "Blended (2014) is a romantic comedy film directed by Frank Coraci, starring Adam Sandler and Drew Barrymore. The story follows Jim (Sandler) and Lauren (Barrymore), two single parents who meet on a disastrous blind date. Despite their initial dislike for each other, they are forced to spend time together at a luxury African safari resort with their children. As they navigate awkward situations and family dynamics, the two begin to develop a deeper bond and connection. The film explores themes of family, love, and second chances.",
+      "year": "(2014)",
+      "genres": ["Drama", "Comedy", "Romance", "Family"],
+      "age": "F",
+      "time": "1h 10m"
+    },
+    {
+      "id":10,
+      "title": "Moana",
+      "picUrl": "default image.jpg",
+      "description": "Moana is a 2016 animated adventure film by Disney. It follows the journey of Moana, a young Polynesian girl who sets sail across the ocean to find the demigod Maui and restore the heart of Te Fiti, which was stolen long ago. Along the way, she faces numerous challenges and discovers her own strength and identity as a leader. The movie explores themes of self-discovery, bravery, and the importance of preserving tradition. It features vibrant animation, memorable songs, and a powerful voice cast, including Auli'i Cravalho as Moana and Dwayne 'The Rock' Johnson as Maui.",
+      "year": "(2016)",
+      "genres": ["Comedy", "Animation", "Adveture"],
+      "age":"F",
+      "time":"2h 15m"
+    },
+  
+    {
+      "id":11,
+      "title": "Batman",
+      "picUrl": "default image.jpg",
+      "description": "The Batman movie follows Bruce Wayne, a billionaire who becomes the masked vigilante known as Batman to fight crime in Gotham City. Haunted by the murder of his parents, Bruce seeks justice while battling powerful villains such as the Joker, Riddler, and Catwoman. As he uncovers dark secrets about Gotham's corruption, Batman struggles to balance his dual identity as both a symbol of hope and a figure of vengeance. With intense action, mystery, and a complex hero at its core, the film explores themes of justice, morality, and redemption.",
+      "year": "(2002)",
+      "genres": ["Action", "Sci-fi", "Drama"],
+      "age":"16",
+      "time":"1h 45m"
+    },
+  
+    {
+      "id":12,
+      "title": "Dr Dolittle",
+      "picUrl": "default image.jpg",
+      "description": "Dr. Dolittle is a 2020 adventure-comedy film starring Robert Downey Jr. as the title character, a physician who has the ability to talk to animals. After the death of his wife, Dr. Dolittle isolates himself in his mansion, but is called upon to embark on a dangerous journey to a mysterious island in order to find a cure for the young queen of England. Along the way, he is joined by a quirky crew of animals and humans. The film is a lighthearted and imaginative retelling of the classic 1920s character created by Hugh Lofting.",
+      "year": "(2020)",
+      "genres": ["Family", "Comedy"],
+      "age":"F",
+      "time":"1h 15m"
+    },
+  
+    {
+      "id":13,
+      "title": "lord of the rings",
+      "picUrl": "default image.jpg",
+      "description": "The Lord of the Rings is a fantasy film trilogy directed by Peter Jackson, based on the novels by J.R.R. Tolkien. The story follows a young hobbit named Frodo Baggins, who is tasked with destroying a powerful and corrupting artifact called the One Ring. Along with a group of companions, Frodo embarks on an epic journey to the dark land of Mordor, where the ring must be destroyed to prevent the Dark Lord Sauron from conquering Middle-earth. The trilogy explores themes of friendship, courage, and the battle between good and evil.",
+      "year": "(2004)",
+      "genres": ["Fantasy", "Action", "Adveture"],
+      "age":"18",
+      "time": "3h 25m"
+    },
+    {
+      "id":14,
+      "title": "Chronicles of nadia",
+      "picUrl": "default image.jpg",
+      "description": "Chronicles of Nadia is an adventurous and thrilling movie that follows the journey of Nadia, a young woman with a mysterious past, as she embarks on a quest to uncover hidden secrets about her heritage. Along the way, she encounters dangerous adversaries, forms unlikely alliances, and must confront personal demons while navigating a world full of intrigue and peril. The film blends action, suspense, and elements of fantasy, as Nadia seeks to unlock the truth that could change everything she knows about her identity and the world around her.",
+      "year": "(2005)",
+      "genres": ["Fantasy", "Action", "Adveture"],
+      "age": "13",
+      "time":"1h 32m"
+    },
+    {
+      "id":15,
+      "title": "Despicable me",
+      "picUrl": "default image.jpg",
+      "description": "Despicable Me (2010) is an animated comedy film about a supervillain named Gru, who plans to steal the moon. However, his life takes a turn when he adopts three orphaned girls, Margo, Edith, and Agnes, who change his perspective on life and force him to reconsider his evil ways. With the help of his loyal Minions, Gru balances his criminal ambitions with his newfound role as a father. The movie explores themes of family, redemption, and the impact of love on even the most hardened hearts.",
+      "year": "(2010)",
+      "genres": ["Comedy", "Animation", "Adveture"],
+      "age": "F",
+      "time":"1h 15m"
+    },
+    {
+      "id":16,
+      "title": "King kong",
+      "picUrl": "default image.jpg",
+      "description": "King Kong (2005) is a fantasy adventure film directed by Peter Jackson. The story follows a film crew that travels to the mysterious Skull Island to shoot a movie. While there, they discover the giant gorilla King Kong, who becomes infatuated with the leading lady, Ann Darrow. When Kong is captured and brought to New York City, he escapes and causes chaos in the city. The film is a remake of the 1933 classic and explores themes of love, fear, and the clash between humanity and nature.",
+      "year": "(2005)",
+      "genres": ["Action", "Sci-fi", "Adveture"],
+      "age": "PG-13",
+      "time":"1h 45m"
+    },
+    {
+      "id":17,
+      "title": "Hangover",
+      "picUrl": "default image.jpg",
+      "description": "The Hangover (2009) is a comedy film about a wild bachelor party in Las Vegas that goes horribly wrong. After a night of partying, three friends—Phil, Stu, and Alan—wake up with no memory of the events and the groom, Doug, missing. They must piece together the chaotic night to find Doug before the wedding. The film follows their outrageous and hilarious journey as they encounter unexpected surprises and unravel the mystery of what happened.",
+      "year": "(2009)",
+      "genres": [ "Comedy", "Adveture", "Drama"],
+      "age": "13",
+      "time":"1h 10m"
+    }
+  ]
