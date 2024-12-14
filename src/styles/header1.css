@@ -2,8 +2,8 @@
 
 #header{
     border: none;
-    width: 99%;
-    height: 25vh;
+    width: 100%;
+    height: 15vh;
     margin: .2%;
     background-image: url('/public/header-background.jpg');
     background-size: cover;
@@ -81,7 +81,7 @@ menu ul li button{
 menu button{
     color: white;
     margin: auto;
-    font-size: clamp(.9rem, 1vw, 1.1rem);
+    font-size: clamp(.7rem, 1vw, 1.1rem);
     width: max-content;
     height: max-content;
     padding: 2%;
@@ -112,10 +112,10 @@ menu button:nth-child(4){
 }
 
 #menu-btn{
-    margin: .4%;
+    margin: 1% 0;
     width: 11%;
     max-width: 35px;
-    height: 4vh;
+    height: 3vh;
     cursor: pointer;
     border: none;
     background-image: linear-gradient(0deg, aqua, steelblue);
@@ -146,7 +146,7 @@ form{
 form input{
     border: none;
     width: 84%;
-    height: 4vh;
+    height: 2.5vh;
     line-height: 30%;
     padding: 0.1rem; 
     margin: 0;
@@ -166,7 +166,7 @@ form button{
     transition-duration: 3s;
     width: 15%;
     max-width: 40px;
-    height: 90.5%;
+    height: 65%;
     max-height: 37px;
     margin-left: .15%; 
     padding: 0.1rem;
