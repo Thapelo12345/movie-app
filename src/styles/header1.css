@@ -168,8 +168,9 @@ form button{
     transition-duration: 3s;
     width: 15%;
     max-width: 40px;
-    height: 65%;
-    max-height: 37px;
+    min-height: 3vh;
+
+    max-height: 3.5vh;
     margin-left: .15%; 
     padding: 0.1rem;
     border: none;
@@ -186,6 +187,6 @@ form button:hover{
 }
 
 form button svg{
-    width: 100%;
+    width: 50%;
     height: 100%;
 }
