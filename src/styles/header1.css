@@ -3,7 +3,7 @@
 #header{
     border: none;
     width: 100%;
-    height: 15vh;
+    height: 25vh;
     margin: .2%;
     background-image: url('/public/header-background.jpg');
     background-size: cover;
@@ -112,10 +112,10 @@ menu button:nth-child(4){
 }
 
 #menu-btn{
-    margin: 1% 0;
+    margin: .5% 0;
     width: 11%;
     max-width: 35px;
-    height: 3vh;
+    height: 4vh;
     cursor: pointer;
     border: none;
     background-image: linear-gradient(0deg, aqua, steelblue);
@@ -140,13 +140,15 @@ form{
     display: flex;
     align-items: center; 
     margin-top: .4%;
+    margin-left: 5%;
     box-sizing: border-box;
 }
 
 form input{
     border: none;
     width: 84%;
-    height: 2.5vh;
+    min-height: 2.5vh;
+    max-height: 3.4vh;
     line-height: 30%;
     padding: 0.1rem; 
     margin: 0;
