@@ -140,7 +140,7 @@ form{
     max-width: 600px;
     display: flex;
     align-items: center; 
-    margin-top: .4%;
+    margin-top: -.6%;
     margin-left: 5%;
     box-sizing: border-box;
 }
@@ -170,8 +170,7 @@ form button{
     width: 15%;
     max-width: 40px;
     min-height: 3vh;
-
-    max-height: 3.5vh;
+    max-height: 4.6vh;
     margin-left: .15%; 
     padding: 0.1rem;
     border: none;
