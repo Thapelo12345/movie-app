@@ -63,7 +63,7 @@ return getMovie.genres.indexOf(genre) !== getMovie.genres.length - 1 ? `${genre}
             </ul>
         </div>
         
-        <button onClick={()=> navigate('/')}>Back</button>
+        <button onClick={()=> navigate('/movie-app')}>Back</button>
         
         </div>
 

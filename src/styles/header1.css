@@ -134,7 +134,8 @@ menu button:nth-child(4){
 }
 
 form{
-    height:58%;
+    min-height:58%;
+    max-height: 500px;
     width: 80%;
     max-width: 600px;
     display: flex;
@@ -147,8 +148,8 @@ form{
 form input{
     border: none;
     width: 84%;
-    min-height: 2.5vh;
-    max-height: 3.4vh;
+    height: 45%;
+    max-height: 75%;
     line-height: 30%;
     padding: 0.1rem; 
     margin: 0;

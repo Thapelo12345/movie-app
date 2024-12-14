@@ -3,17 +3,26 @@ import { persistStore, persistReducer } from 'redux-persist';
 import storage from 'redux-persist/lib/storage';
 
 const initialState = { itemId: '1' };
-const initialLoad = { dataRecived : false}
+const initialSearch = { searchFor : 'All' }
+const initialTitle = { movieTitle : ''}
 
-const dataReducer = (state = initialLoad, action) => {
+const findTitleReducer = (state = initialTitle, action) =>{
+switch (action.type) {
+  case 'MOVE_TITLE':
+    return {...state, movieTitle: action.input}
+  default:
+    return state
+}
+}//end of move title reducer
+
+const searchReducer = (state = initialSearch, action) => {
   switch (action.type) {
-    case 'DATA_RECEIVED':
-      return { ...state, dataReceived: true };
+    case 'SEARCH_FOR':
+      return { ...state, searchFor: action.input };
     default:
-      return state;
+      return state
   }
-};
-
+}//end of seach reducer
 
 const itemReducer = (state = initialState, action) => {
   switch (action.type) {
@@ -22,11 +31,12 @@ const itemReducer = (state = initialState, action) => {
     default:
       return state;
   }
-};
+}//end of item reducer
 
 const rootReducer = combineReducers({
   item: itemReducer,
-  LoadedData: dataReducer
+  search: searchReducer,
+  title: findTitleReducer
 });
 
 const persistConfig = {
@@ -41,22 +51,3 @@ const store = createStore(persistedReducer);
 const persistor = persistStore(store);
 
 export { store, persistor };
-
-
-/*import { createStore } from 'redux'
-
-const initialState = { itemId: '0' }
-
-const reducer = (state = initialState, action) => {
-    switch (action.type) {
-        case 'UPDATE_INPUT':
-            return { ...state, itemId: action.input }
-        default:
-            return state
-    }
-}
-
-const store = createStore(reducer)
-
-export default store
-*/
