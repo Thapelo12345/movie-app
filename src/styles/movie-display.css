@@ -4,6 +4,7 @@
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+    justify-content: space-evenly;
     width: 97.6vw;
    background-image: linear-gradient(145deg, #f3f4f8, #cccdd1);
     min-height: 100vh;
